@@ -1,4 +1,4 @@
-# 📌 Docusights API  
+# 📌 Quantadoc 
 Quantadoc API is a **document intelligence service** that extracts **text and table data** using **Azure Document Intelligence**, generates **embeddings** with **NVIDIA NV Embed API**, and enables **semantic search** with **FAISS**.
 
 ---
